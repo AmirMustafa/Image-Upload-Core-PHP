@@ -42,30 +42,26 @@ echo "<img src='img/$fetch[1]'>";
 ## Preview
 
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443295/0d1e0fe2-2ac5-11e7-9718-49b1c084e4e7.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557020/48977596-2d26-11e7-8494-7d71cf843d20.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443298/1112de70-2ac5-11e7-9a04-8d7523d4ab99.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557021/4adad794-2d26-11e7-9ef9-91045bc56717.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443308/14fa29d0-2ac5-11e7-9b12-dc01184bde67.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557022/4db0e526-2d26-11e7-8cc8-5f5b43ca4500.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443272/fabc62b8-2ac4-11e7-8b2e-8dc799c425e6.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557023/508f4666-2d26-11e7-915f-b33aea9af147.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443278/fe92006e-2ac4-11e7-9b87-7ca0941a7f4b.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557027/550179a8-2d26-11e7-84b4-f9d61f05ef02.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443282/01b2b928-2ac5-11e7-848e-8b049060fda4.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557029/59e5d9f0-2d26-11e7-92ac-ada02685ff7b.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
 
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443287/04f36e02-2ac5-11e7-9e07-9536df0b04a8.png?raw=true "Screenshot of Google Maps")
+![Screenshot of Image Upload ](https://cloud.githubusercontent.com/assets/15896579/25557031/5fcd1f86-2d26-11e7-861b-7772b4560ac3.png?raw=true "Screenshot of Image Upload")
 <br/><br/><br/>
-
-![Screenshot of Google Maps ](https://cloud.githubusercontent.com/assets/15896579/25443291/09032190-2ac5-11e7-97fb-a9150e6b3a56.png?raw=true "Screenshot of Google Maps")
-<br/><br/><br/>
-
 
 <br/><br/><br/>
 
